@@ -78,8 +78,8 @@ https://www.tooplate.com/view/2115-marvel
                             <span class="mr-2">Hey folks, I'm</span>
                                 <div class="animated-info">
                                     <span class="animated-item">Imane BADDA</span>
-                                    <span class="animated-item">Web Developper</span>
-                                    <span class="animated-item">full stack java Developper</span>
+                                    <span class="animated-item">JAVA full stack</span>
+                                    <span class="animated-item">Developper</span>
                                 </div>
                         </h1>
 
@@ -110,7 +110,7 @@ https://www.tooplate.com/view/2115-marvel
                   <div class="col-lg-11 text-center mx-auto col-12">
 
                       <div class="col-lg-8 mx-auto">
-                        <h2>Things I have designed for digital media agencies</h2>
+                        <h2>Things I have developped for digital processus</h2>
                       </div>
 
                       <div class="owl-carousel owl-theme">
