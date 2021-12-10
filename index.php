@@ -83,7 +83,8 @@ https://www.tooplate.com/view/2115-marvel
                                 </div>
                         </h1>
 
-                        <p>Building a successful product is a challenge. I am highly energetic in user experience design, interfaces and web development.</p>
+                        <p>Développeur passionné dans le domaine du web depuis plus de 6 ans, actuellement développeur Web. Je conçois et réalise des sites web du cahier des charges à la mise en ligne.
+                          Je developpe aussi en JAVA, ce qui me permet de développer des applications mobiles android. J'ai quelques projets intéressants à voir. Vous souhaitez avoir mon CV au format PDF c'est par ici.</p>
                         
                         <div class="custom-btn-group mt-4">
                           <a href="#" class="btn mr-lg-2 custom-btn"><i class='uil uil-file-alt'></i> Download Resume</a>
