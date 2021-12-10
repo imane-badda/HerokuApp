@@ -83,7 +83,7 @@ https://www.tooplate.com/view/2115-marvel
                                 </div>
                         </h1>
 
-                        <p>Développeur passionné dans le domaine du web depuis plus de 6 ans, actuellement développeur Web. Je conçois et réalise des sites web du cahier des charges à la mise en ligne.
+                        <p>Développeur passionnée dans le domaine du web depuis plus de 6 ans, actuellement développeur Web. Je conçois et réalise des sites web du cahier des charges à la mise en ligne.
                           Je developpe aussi en JAVA, ce qui me permet de développer des applications mobiles android. J'ai quelques projets intéressants à voir. Vous souhaitez avoir mon CV au format PDF c'est par ici.</p>
                         
                         <div class="custom-btn-group mt-4">
